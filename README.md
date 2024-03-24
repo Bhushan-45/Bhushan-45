@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhushanrandhir1" target="blank"><img src="https://img.shields.io/twitter/follow/bhushanrandhir1?logo=twitter&style=for-the-badge" alt="bhushanrandhir1" /></a> </p>
 
-- 🔭 I am worked at **SBFC Finance Limited**
+- 🔭 I am working at **SBFC Finance Limited**
 
 - 🌱 I’m currently learning **ISTQB Cetification,API Testing**
 
